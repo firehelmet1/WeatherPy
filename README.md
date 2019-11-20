@@ -9,19 +9,19 @@ The data was read in JSON format, and created to dataframes for further data wra
 I produced a series of scatter plots to showcase the following relationships:
 
 * Temperature (F) vs. Latitude
-![MaxTemp](Images/max_temp.png)
+![MaxTemp](images/max_temp.png)
 
 * Humidity (%) vs. Latitude
-![Humidity](Images/humidity.png)
+![Humidity](images/humidity.png)
 
 * Cloudiness (%) vs. Latitude
-![Cloudiness](Images/cloudiness.png)
+![Cloudiness](images/cloudiness.png)
 
 * Wind Speed (mph) vs. Latitude
-![WindSpeed](Images/wind_speed.png)
+![WindSpeed](images/wind_speed.png)
 
 Additionally, I examined the scatter-plot correlation between cloudiness and humidity (positive correlation) and wind speed vs. humidity (negative correlation.
 
-![CloudinessHumidity](Images/cloudiness_humidity.png)
-![WindSpeedHumidity](Images/windspeed_humidity.png)
+![CloudinessHumidity](images/cloudiness_humidity.png)
+![WindSpeedHumidity](images/windspeed_humidity.png)
 
