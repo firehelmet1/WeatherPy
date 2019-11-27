@@ -25,3 +25,5 @@ Additionally, I examined the scatter-plot correlation between cloudiness and hum
 ![CloudinessHumidity](images/cloudiness_humidity.png)
 ![WindSpeedHumidity](images/windspeed_humidity.png)
 
+## Code Execution
+Execute the code in Jupyter Notebook
